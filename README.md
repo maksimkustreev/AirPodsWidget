@@ -1,5 +1,8 @@
 <div align="center">
 
+<p align="center"><strong>English</strong> | <a href="README_RU.md">Русский</a></p>
+
+
 # 🎧 AirPods Widget for Windows
 
 **A lightweight Windows tray widget that brings an iOS-style AirPods battery experience to your PC.**
@@ -28,10 +31,6 @@ The application is designed to stay out of the way: click the tray icon whenever
 | Battery widget | Settings |
 |---|---|
 | ![AirPods battery widget](assets/widget.png) | ![AirPods Widget settings](assets/settings.png) |
-
-### System tray
-
-![AirPods battery level in the Windows system tray](assets/tray.png)
 
 ## 🚀 Features
 
